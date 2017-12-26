@@ -1,5 +1,8 @@
+---
 layout: default
 title:  "欲練Jekyll神功，必先自裝Ruby"
+---
+
 ---
 +# mermaid绘图
  +****
@@ -68,3 +71,4 @@ title:  "欲練Jekyll神功，必先自裝Ruby"
  +
  +mermaid参考手册：<https://github.com/knsv/mermaid>
  +
+ ---
