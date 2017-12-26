@@ -1,32 +1,62 @@
 ---
 layout: default
-title:  "欲練Jekyll神功，必先自裝Ruby"
+title:  "李杨成的第一篇博客"
 ---
-#How To Cover Your Tracks On The Internet
--Every single time you access a website, you leave tracks. Tracks that others can access. If you don't like the idea, find out what software can help you cover them.
-Anti Tracks
-Anti Tracks is a complete solution to protect your privacy and enhance your PC performance. With a simple click Anti Tracks securely erase your internet tracks, computer activities and programs history information stored in many hidden files on your computer.Anti Tracks support Internet Explorer, AOL, Netscape/Mozilla and Opera browsers. It also include more than 85 free plug-ins to extend erasing features to support popular programs such as ACDSee, Acrobat Reader, KaZaA, PowerDVD, WinZip, iMesh, Winamp and much more. Also you can easily schedule erasing tasks at specific time intervals or at Windows stat-up/ shutdown.To ensure maximum privacy protection Anti Tracks implements the US Department of Defense DOD 5220.22-M, Gutmann and NSA secure erasing methods, making any erased files unrecoverable even when using advanced recovery tools.
-Free Download: http://www.deprice.com/antitracks.htm
-East-Tec Eraser
-East-Tec Eraser goes beyond U.S. Department of Defense standards for the permanent erasure of digital information and easily removes every trace of sensitive data from your computer.
-Completely destroy information stored without your knowledge or approval: Internet history, Web pages and pictures from sites visited on the Internet, unwanted cookies, chatroom conversations, deleted e-mail messages, temporary files, the Windows swap file, the Recycle Bin, previously deleted files, valuable corporate trade secrets, Business plans, personal files, photos or confidential letters, etc.East-Tec Eraser 2005 offers full support for popular browsers (Internet Explorer, Netscape Navigator, America Online, MSN Explorer, Opera), for Peer2Peer applications (Kazaa, Kazaa Lite, iMesh, Napster, Morpheus, Direct Connect, Limewire, Shareaza, etc.), and for other popular programs such as Windows Media Player, RealPlayer, Yahoo Messenger, ICQ, etc. Eraser has an intuitive interface and wizards that guide you through all the necessary steps needed to protect your privacy and sensitive information.Other features include support for custom privacy needs, user-defined erasure methods, command-line parameters, integration with Windows Explorer, and password protection.
-Free Download: http://www.deprice.com/eastteceraserstandard.htm
-Ghostsurf Platinum
-GhostSurf Platinum ensures your safety online by providing an anonymous, encrypted Internet connection, and GhostSurf stops spyware, eliminates ads and erases your tracks. GhostSurf lets you customize your privacy level in real-time to suit your surfing needs. A variety of options enable you to block personal information, mask your IP address, route your data through anonymous hubs and even encrypt your Internet connection. GhostSurf's Privacy Control Center allows you to see and block every piece of data that your computer emits over the Internet, preventing even your Internet Service Provider (ISP) from creating a profile on you.
-Free Download: http://www.deprice.com/ghostsurfplatinum.htm
-CyberScrub Pro
-Sensitive data can easily fall into the wrong hands. And because Windows is not capable of deleting information beyond recovery, you are at risk!
-Passwords, financial documents, even those "about last night" e-mails are fair game for the IT professional, computer technician or hacker.
-CyberScrub allows you to purge, wipe and erase data with methods that far exceed US Department of Defense standards for file deletion (DOD 5220.22).
-CyberScrub Erases:
-* Selected Files/Folders beyond recovery
-* Cookies
-* Cache (Temporary Internet Files)
-* All traces of Peer2Peer activity (16 popular apps)
-* website History
-* Chat Room Conversations, Instant Messages
-* Pictures viewed
-* Email & "previously deleted files"
-* Recycle Bin, Recent Documents
-* Swap and other "locked" files that contain sensitive data
-*
+- [x] 早餐爱好
+  - [x] 1.牛奶和面包
+  - [ ] 2.泡面加火腿肠
+  - [x] 3.白粥
+  - [x] 4.不吃
+
+
+```
+graph TD
+    A[Christimas] -->B(Go shopping)
+    B -->C[let me think]
+    C -->|One| D[ipad]
+    C -->|two| E[iphone]
+    C -->|Three| F[camera]
+    C -->|Four| G[flower]
+```
+```
+
+graph LR
+A-->B
+```
+
+```
+sequenceDiagram
+Jason->>Jackson: How are you?
+Jackson->>Jason: Great!
+```
+
+```
+gantt
+dateFormat YYYY-MM-DD
+title 产品计划表
+section 初期阶段
+明确需求:2016-03-01, 10d
+section 中期阶段
+跟进开发:2016-03-11, 15d
+section 后期阶段
+走查调查:2016-03-20, 9d
+section 收尾阶段
+撰写论文:2016-03-29, 8d
+```
+```
+gantt
+        dateFormat  YYYY-MM-DD
+        title Adding GANTT diagram functionality to mermaid
+        section A section
+        Completed task            :done,    des1, 2014-01-06,2014-01-08
+        Active task               :active,  des2, 2014-01-09, 3d
+        Future task               :         des3, after des2, 5d
+        Future task2               :         des4, after des3, 5d
+        section Critical tasks
+        Completed task in the critical line :crit, done, 2014-01-06,24h
+        Implement parser and jison          :crit, done, after des1, 2d
+        Create tests for parser             :crit, active, 3d
+        Future task in critical line        :crit, 5d
+        Create tests for renderer           :2d
+        Add to mermaid                      :1d
+```

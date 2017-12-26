@@ -4,7 +4,7 @@ title:  "欲練Jekyll神功，必先自裝Ruby"
 ---
 
 ---
-+# mermaid绘图
++#mermaid绘图
  +****
  +第一种方法：无需插件在jekyll嵌入图表，只需在网页上引用mermaid
  +
@@ -70,5 +70,4 @@ title:  "欲練Jekyll神功，必先自裝Ruby"
  +
  +
  +mermaid参考手册：<https://github.com/knsv/mermaid>
- +
  ---
