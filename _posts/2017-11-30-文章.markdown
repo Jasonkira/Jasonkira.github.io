@@ -1,0 +1,12 @@
+---
+layout: default
+title:  "欲練Jekyll神功，必先自裝Ruby"
+---
+
+# 尝试使用markdown格式写文章
+
+个人|信息
+-|-
+姓名|李杨成
+专业|网新
+年级|2016
