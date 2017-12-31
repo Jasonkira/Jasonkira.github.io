@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "随笔"
+title:  "可视化作品"
 ---
 
 ## 可视化作品
