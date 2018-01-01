@@ -1,6 +1,9 @@
 ---
 layout: default
 title:  "我的网页设计学习笔记"
+image:
+  teaser: sunshine.png
+  feature: pandas.jpg
 ---
 
 # 欢迎阅读my study notes
