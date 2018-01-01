@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: 心情
-  url: /teaching/
-  excerpt: "存放个人心情"
+- title: 学习笔记
+  url: /notes/
+  excerpt: "存放个人学习笔记"
   image: 300x200.gif
 
-- title: English Writing
+- title: 英文写作
   url: /English/
   excerpt: "Love、Friendship、Moives"
   image: 300x200.gif
