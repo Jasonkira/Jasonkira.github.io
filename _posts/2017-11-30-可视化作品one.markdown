@@ -7,4 +7,4 @@ categories: keshihuazuopin
 ## 可视化作品one
 
 
-<iframe src="https://public.tableau.com/views/_16076/1_1?:embed=y&:display_count=yes&publish=yes"></iframe>
+<iframe src="https://public.tableau.com/views/_16076/1_1?:embed=y&:display_count=yes&publish=yes" width="100%"></iframe>

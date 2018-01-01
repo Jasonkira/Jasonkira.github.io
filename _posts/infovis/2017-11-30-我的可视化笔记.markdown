@@ -58,3 +58,17 @@ _选择字体算是一项繁重的工作。图表中的字体最终是用来描�
 + **零基线要比其他网格线线条粗、颜色重。**
 + **如果直条的数值接近于零，那么一定要将其数值标注出来。**
 + **替代绘图：如果数据点在数值上接近，直条在高度上无法区别，那么在这种情况下绘制数据点变化或百分比变化效果会更好。**
+
+## 精准度排列
+1. Position along a common scale e.g. scatter plot
+2. Position on identical but nonaligned scales e.g. multiple scatter plots
+3. Length e.g. bar chart
+4. Angle & Slope (tie) e.g. pie chart
+5. Area e.g. bubbles
+6. Volume, density, and color saturation (tie) e.g. heatmap
+7. Color hue e.g. newsmap 
+
+## Tableau及Plot.ly比较
++ **Plot.ly 在 发布可视化成果时，以响应/流体布局 Responsive / Fluid Layout 为基础。Tableau则否。**
++ **Plot.ly 比  Tableau Public 运用更多更强大的 JavaScript 图表库。**
++ **Plot.ly 没有Desktop版的应用程序，而Tableau有。**

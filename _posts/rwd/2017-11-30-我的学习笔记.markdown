@@ -46,16 +46,18 @@ CSS滤镜|filter
 编辑器|flexibility
 拍摄花絮|b-roll
 
-## 精准度排列
-1. Position along a common scale e.g. scatter plot
-2. Position on identical but nonaligned scales e.g. multiple scatter plots
-3. Length e.g. bar chart
-4. Angle & Slope (tie) e.g. pie chart
-5. Area e.g. bubbles
-6. Volume, density, and color saturation (tie) e.g. heatmap
-7. Color hue e.g. newsmap 
+代码|颜色
+-|-
+#00FFFF|青色，青蓝色
+#000000|黑色
+#FFFFFF|白色
+#FF0000|红色
+#C0C0C0|银灰
+#FF00FF|洋红，紫红
 
-## Tableau及Plot.ly比较
-+ **Plot.ly 在 发布可视化成果时，以响应/流体布局 Responsive / Fluid Layout 为基础。Tableau则否。**
-+ **Plot.ly 比  Tableau Public 运用更多更强大的 JavaScript 图表库。**
-+ **Plot.ly 没有Desktop版的应用程序，而Tableau有。**
+
+## HTML5里的HTML5的全新语义化元素：
++ **<section>用来定义文档或应用程序中的区域；**
++ **<nav>用来定义文档的主导航区域；**
++ **<aside>表示与页面主内容松散相关的内容；**
++ **<address>用于明确地标注离其最近的<article>或<body>祖先元素的联系信息。**
