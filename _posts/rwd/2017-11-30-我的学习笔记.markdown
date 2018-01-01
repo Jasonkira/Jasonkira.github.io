@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "我的网页设计学习笔记"
+title:  "我的网页设计学习笔记two"
 image:
   teaser: sunshine.png
   feature: sunshine.png
