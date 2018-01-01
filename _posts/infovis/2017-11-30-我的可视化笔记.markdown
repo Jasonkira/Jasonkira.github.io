@@ -3,7 +3,7 @@ layout: default
 title:  "可视化笔记"
 image:
   teaser: sea.jpg
-  feature: smile.jpg
+  feature: sea.jpg
 ---
 
 # 欢迎阅读我的可视化笔记第一篇
