@@ -2,8 +2,8 @@
 layout: default
 title:  "我的网页设计学习笔记two"
 image:
-  teaser: sunshine.png
-  feature: sunshine.png
+  teaser: tree.jpg
+  feature: tree.jpg
 ---
 
 # 欢迎阅读my study notes
