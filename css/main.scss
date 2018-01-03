@@ -54,15 +54,20 @@ sitemap: false
 
 @import "layout";
 
+.tiles {
+    background-color: #efef6f;
+}
+
 .sliding-menu-button:hover {
     background: #26afdc;
     transform: scale(1,2); 
 }
 
-element.style {
-    background-color: #efef6f;
-}
 
 .sliding-menu-button {
     background-color: #de1919
+}
+
+body{
+color: #094bd6;
 }
