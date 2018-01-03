@@ -53,3 +53,8 @@ sitemap: false
    ========================================================================== */
 
 @import "layout";
+
+.sliding-menu-button:hover {
+    background: #26afdc;
+    transform: scale(1,2); 
+}
