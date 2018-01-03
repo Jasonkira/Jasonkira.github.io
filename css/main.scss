@@ -54,7 +54,7 @@ sitemap: false
 
 @import "layout";
 
-.tiles {
+html {
     background-color: #efef6f;
 }
 
@@ -68,6 +68,13 @@ sitemap: false
     background-color: #de1919
 }
 
-body{
-color: #094bd6;
+
+body {
+    font-family: Georgia,Times,"Times New Roman",serif;
+    color: #094bd6;
+    font-size: 16px;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 24px;
+    margin-bottom: 1.5rem;
 }
