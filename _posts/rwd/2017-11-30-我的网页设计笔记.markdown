@@ -2,8 +2,8 @@
 layout: default
 title:  "我的网页设计与制作笔记one"
 image:
-  teaser: my.jpg
-  feature: my.jpg
+  teaser: my design.jpg
+  feature: my design.jpg
 ---
 
 # 欢迎阅读我的网页设计与制作学习笔记第一篇
